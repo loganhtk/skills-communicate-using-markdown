@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] wake up early
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
